@@ -28,10 +28,4 @@ Header.propTypes = {
     title: PropTypes.string
 }
 
-// // CSS in JS: mostly for dynamic styling
-// const headingStyle = {
-//     color: 'red',
-//     backgroundColor: 'yellow'
-// }
-
 export default Header
